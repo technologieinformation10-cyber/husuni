@@ -1,0 +1,13 @@
+# ملفات نظام التشغيل
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ملفات المحررات
+.vscode/
+.idea/
+*.swp
+
+# لو استُخدمت أدوات Node لاحقًا
+node_modules/
+package-lock.json
